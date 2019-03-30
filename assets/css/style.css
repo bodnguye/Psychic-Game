@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    background-color:black;
+    color: red;
+}
+
+#elephantprint {
+    border: 30px solid transparent;
+    border-image: url(../images/elephantprint.jpeg) 20% round;
+  }
+
+#winner-logo {
+    margin-left: 43.3%;
+}
